@@ -1,8 +1,8 @@
-# CrocodileRush is a simple platformer game developed using Vanilla JavaScript and Phaser3 framework
+# CrocodileRush 
 
 <br>
 
-_This Quote Generator app is entirely written in pure Javascript, HTML and CSS._
+_This is a simple platformer game developed using Vanilla JavaScript and Phaser3 framework._
 
 <br>
 
