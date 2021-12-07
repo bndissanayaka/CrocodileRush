@@ -6,7 +6,7 @@ _This is a simple platformer game developed using Vanilla JavaScript and Phaser3
 
 <br>
 
-See it [here](https://bndissanayaka.github.io/CrocodileRush)
+Play it [here](https://bndissanayaka.github.io/CrocodileRush)
 
 <br>
 <image src="assests/img/game.PNG">
