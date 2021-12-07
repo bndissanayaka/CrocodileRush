@@ -9,7 +9,7 @@ _This Quote Generator app is entirely written in pure Javascript, HTML and CSS._
 See it [here](https://bndissanayaka.github.io/CrocodileRush)
 
 <br>
-<image src="images/game.PNG">
+<image src="assests/img/game.PNG">
 
 ## Summary
 
